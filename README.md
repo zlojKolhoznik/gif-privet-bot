@@ -1,1 +1,1 @@
-# gif-ptrivet-bot
+# gif-privet-bot
