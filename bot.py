@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('5680668915:AAHN4u4Zm8VO4_dU7oRs1HtURCcPa4MPgGE')
+bot = telebot.TeleBot('token ya ne dam')
 file_id = 'CgACAgIAAxkBAAMDYyNQYedGUE07ZxcUbj9dRfkzDB4AAmkNAAJpMQlIMYN_aB6-SjwpBA'
 
 # @bot.message_handler(content_types=['animation', 'video', 'photo', 'document'])
