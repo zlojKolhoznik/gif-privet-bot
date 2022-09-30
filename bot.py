@@ -11,8 +11,9 @@ file_id = 'CgACAgIAAxkBAAMDYyNQYedGUE07ZxcUbj9dRfkzDB4AAmkNAAJpMQlIMYN_aB6-SjwpB
 
 @bot.message_handler(content_types=['new_chat_members'])
 def welcome(msg: telebot.types.Message):
-    bot.send_animation(msg.chat.id, file_id, reply_to_message_id=msg.message_id)
-    bot.reply_to(msg, 'Ти з конотопа?')
+    pass
+#    bot.send_animation(msg.chat.id, file_id, reply_to_message_id=msg.message_id)
+#    bot.reply_to(msg, 'Ти з конотопа?')
 
 
 if __name__=='__main__':
