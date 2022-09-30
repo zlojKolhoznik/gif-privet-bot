@@ -1,1 +1,0 @@
-# gif-privet-bot
